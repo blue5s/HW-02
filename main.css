@@ -1,0 +1,48 @@
+table{
+    background-color: #FFFF99;
+    font-family: 微軟正黑體, "Microsoft JhengHei" , "Arial" , "Helvetica" , "sans-serif";
+    line-height: 0pt;
+}
+strong{
+    color: #fd0404;
+}
+.ball{
+    width: 41px;
+    height: 41px;
+    border-radius:50%;
+    line-height: 41px;
+    text-align: center;
+    background: #FFBF11;
+    font-size: 24px;
+    font-weight: bolder;
+    font-family: Arial;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+.ball-special{
+    width: 41px;
+    height: 41px;
+    border-radius:50%;
+    line-height: 41px;
+    text-align: center;
+    color: white;
+    background: red;
+    font-size: 24px;
+    font-weight: bolder;
+    font-family: Arial;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+.ball-empty{
+    width: 41px;
+    height: 41px;
+    border-radius:50%;
+    line-height: 41px;
+    text-align: center;
+    background: #FFFF99;
+    font-size: 24px;
+    font-weight: bolder;
+    font-family: Arial;
+    margin-left: 3px;
+    margin-right: 3px;
+}
